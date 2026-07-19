@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local browser and runtime data
+browser_profile/
+debug/
+logs/
+state/
+invoices/
+
+# Client and payment data
+input/*.xlsx
+input/*.xls
+input/*.csv
+
+# Editors
+.vscode/
+.idea/
